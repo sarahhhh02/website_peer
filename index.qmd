@@ -6,4 +6,4 @@ date: "2024-9-12"
 
 # Welcome!
 
-Hi, my name is Sarah Lee, currently a student at University of Toronto. I am majoring in a Bachelor's degree in Mathematics, taking a minor in Statistics and Digital Hummanities
+Hi, my name is Sarah Lee, currently a student at University of Toronto. I am majoring in a Bachelor's degree in Mathematics, taking a minor in Statistics and Digital Humanities.
