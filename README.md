@@ -1,5 +1,5 @@
-#Personal Website
+# Personal Website
 
-##Overview
+## Overview
 
-This repository contains a personal wesite 
+This repository contains a personal website
